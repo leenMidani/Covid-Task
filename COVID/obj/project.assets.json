@@ -769,28 +769,46 @@
           }
         }
       },
-      "AccessDbContext/1.0.0": {
+      "COVID.AccessDbContextLayer/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
-          "Entity": "1.0.0",
-          "Microsoft.EntityFrameworkCore": "6.0.10"
+          "COVID.Entity": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "6.0.10",
+          "Microsoft.EntityFrameworkCore.Relational": "6.0.10",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.10"
         },
         "compile": {
-          "bin/placeholder/AccessDbContext.dll": {}
+          "bin/placeholder/COVID.AccessDbContextLayer.dll": {}
         },
         "runtime": {
-          "bin/placeholder/AccessDbContext.dll": {}
+          "bin/placeholder/COVID.AccessDbContextLayer.dll": {}
         }
       },
-      "Entity/1.0.0": {
+      "COVID.Entity/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "compile": {
-          "bin/placeholder/Entity.dll": {}
+          "bin/placeholder/COVID.Entity.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Entity.dll": {}
+          "bin/placeholder/COVID.Entity.dll": {}
+        }
+      },
+      "COVID.ServicesLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "AutoMapper": "12.0.0",
+          "COVID.AccessDbContextLayer": "1.0.0",
+          "COVID.Entity": "1.0.0",
+          "FluentValidation": "11.2.1"
+        },
+        "compile": {
+          "bin/placeholder/COVID.ServicesLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/COVID.ServicesLayer.dll": {}
         }
       }
     }
@@ -2226,23 +2244,29 @@
         "version.txt"
       ]
     },
-    "AccessDbContext/1.0.0": {
+    "COVID.AccessDbContextLayer/1.0.0": {
       "type": "project",
-      "path": "../AccessDbContext/AccessDbContext.csproj",
-      "msbuildProject": "../AccessDbContext/AccessDbContext.csproj"
+      "path": "../AccessDbContext/COVID.AccessDbContextLayer.csproj",
+      "msbuildProject": "../AccessDbContext/COVID.AccessDbContextLayer.csproj"
     },
-    "Entity/1.0.0": {
+    "COVID.Entity/1.0.0": {
       "type": "project",
-      "path": "../Entity/Entity.csproj",
-      "msbuildProject": "../Entity/Entity.csproj"
+      "path": "../Entity/COVID.Entity.csproj",
+      "msbuildProject": "../Entity/COVID.Entity.csproj"
+    },
+    "COVID.ServicesLayer/1.0.0": {
+      "type": "project",
+      "path": "../ServicesLayer/COVID.ServicesLayer.csproj",
+      "msbuildProject": "../ServicesLayer/COVID.ServicesLayer.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "AccessDbContext >= 1.0.0",
       "AutoMapper >= 12.0.0",
       "AutoMapper.Extensions.Microsoft.DependencyInjection >= 12.0.0",
-      "Entity >= 1.0.0",
+      "COVID.AccessDbContextLayer >= 1.0.0",
+      "COVID.Entity >= 1.0.0",
+      "COVID.ServicesLayer >= 1.0.0",
       "FluentValidation.AspNetCore >= 11.2.2",
       "Microsoft.EntityFrameworkCore >= 6.0.10",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.10",
@@ -2256,9 +2280,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Leen Al Midani\\source\\repos\\COVID\\COVID\\COVID.csproj",
-      "projectName": "COVID",
-      "projectPath": "C:\\Users\\Leen Al Midani\\source\\repos\\COVID\\COVID\\COVID.csproj",
+      "projectUniqueName": "C:\\Users\\Leen Al Midani\\source\\repos\\COVID\\COVID\\COVID.WebAPI.csproj",
+      "projectName": "COVID.WebAPI",
+      "projectPath": "C:\\Users\\Leen Al Midani\\source\\repos\\COVID\\COVID\\COVID.WebAPI.csproj",
       "packagesPath": "C:\\Users\\Leen Al Midani\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Leen Al Midani\\source\\repos\\COVID\\COVID\\obj\\",
       "projectStyle": "PackageReference",
@@ -2277,11 +2301,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Leen Al Midani\\source\\repos\\COVID\\AccessDbContext\\AccessDbContext.csproj": {
-              "projectPath": "C:\\Users\\Leen Al Midani\\source\\repos\\COVID\\AccessDbContext\\AccessDbContext.csproj"
+            "C:\\Users\\Leen Al Midani\\source\\repos\\COVID\\AccessDbContext\\COVID.AccessDbContextLayer.csproj": {
+              "projectPath": "C:\\Users\\Leen Al Midani\\source\\repos\\COVID\\AccessDbContext\\COVID.AccessDbContextLayer.csproj"
             },
-            "C:\\Users\\Leen Al Midani\\source\\repos\\COVID\\Entity\\Entity.csproj": {
-              "projectPath": "C:\\Users\\Leen Al Midani\\source\\repos\\COVID\\Entity\\Entity.csproj"
+            "C:\\Users\\Leen Al Midani\\source\\repos\\COVID\\Entity\\COVID.Entity.csproj": {
+              "projectPath": "C:\\Users\\Leen Al Midani\\source\\repos\\COVID\\Entity\\COVID.Entity.csproj"
+            },
+            "C:\\Users\\Leen Al Midani\\source\\repos\\COVID\\ServicesLayer\\COVID.ServicesLayer.csproj": {
+              "projectPath": "C:\\Users\\Leen Al Midani\\source\\repos\\COVID\\ServicesLayer\\COVID.ServicesLayer.csproj"
             }
           }
         }

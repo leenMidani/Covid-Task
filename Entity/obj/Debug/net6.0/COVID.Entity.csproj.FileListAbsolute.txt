@@ -1,0 +1,12 @@
+C:\Users\Leen Al Midani\source\repos\COVID\Entity\bin\Debug\net6.0\COVID.Entity.deps.json
+C:\Users\Leen Al Midani\source\repos\COVID\Entity\bin\Debug\net6.0\COVID.Entity.dll
+C:\Users\Leen Al Midani\source\repos\COVID\Entity\bin\Debug\net6.0\COVID.Entity.pdb
+C:\Users\Leen Al Midani\source\repos\COVID\Entity\obj\Debug\net6.0\COVID.Entity.csproj.AssemblyReference.cache
+C:\Users\Leen Al Midani\source\repos\COVID\Entity\obj\Debug\net6.0\COVID.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leen Al Midani\source\repos\COVID\Entity\obj\Debug\net6.0\COVID.Entity.AssemblyInfoInputs.cache
+C:\Users\Leen Al Midani\source\repos\COVID\Entity\obj\Debug\net6.0\COVID.Entity.AssemblyInfo.cs
+C:\Users\Leen Al Midani\source\repos\COVID\Entity\obj\Debug\net6.0\COVID.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Leen Al Midani\source\repos\COVID\Entity\obj\Debug\net6.0\COVID.Entity.dll
+C:\Users\Leen Al Midani\source\repos\COVID\Entity\obj\Debug\net6.0\refint\COVID.Entity.dll
+C:\Users\Leen Al Midani\source\repos\COVID\Entity\obj\Debug\net6.0\COVID.Entity.pdb
+C:\Users\Leen Al Midani\source\repos\COVID\Entity\obj\Debug\net6.0\ref\COVID.Entity.dll

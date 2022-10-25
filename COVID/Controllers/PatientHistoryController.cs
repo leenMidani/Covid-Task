@@ -4,6 +4,7 @@ using COVID.Resources;
 using COVID.Services;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using ServicesLayer.Interfaces;
 
 namespace COVID.Controllers
 {
@@ -15,19 +16,18 @@ namespace COVID.Controllers
         private readonly IMapper _mapper;
 
 
-        public PatientHistoryController(IPatientHistoryService patientHistoryService, IMapper mapper)
+        public PatientHistoryController(IPatientHistoryService patientHistoryService)
         {
             _patientHistoryService = patientHistoryService;
-            _mapper = mapper;
         }
         [HttpPost]
         [Route("AddHistory")]
-        public async Task<IActionResult> Create(HistoryResource historyResource)
+        public async Task<IActionResult> Create(HistoryDto historyDto)
         {
             try
             {
 
-                var result = await _patientHistoryService.ADDPatientHistory(historyResource);
+                var result = await _patientHistoryService.ADDPatientHistory(historyDto);
                 
                 return Ok(result);
 

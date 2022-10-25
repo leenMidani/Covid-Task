@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pnCGBF2MboKMTlMQddEiqxvdfNV1BFeRygVsnbjNKOhvTPu/9NuReQULq2iOSsIXCjgiv1N6a4OwMsBLa+CsWg==",
+  "dgSpecHash": "xW0IMCmmcpdrlV3f+ViJ/CNXRaAgU+YyZADr1XIAHsB7DKNHAfPvDQ7b9MJf6Gy1IEWjypLw1IZ3fA+z5MR24g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Leen Al Midani\\source\\repos\\COVID\\Entity\\Entity.csproj",
+  "projectFilePath": "C:\\Users\\Leen Al Midani\\source\\repos\\COVID\\Entity\\COVID.Entity.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

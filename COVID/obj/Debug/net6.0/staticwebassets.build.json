@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "EvnYjetsSDos/09G+vJheFXcGsXz21BIZCXndxtWyGQ=",
-  "Source": "COVID",
-  "BasePath": "_content/COVID",
+  "Hash": "KDsxmTarG5H8HORaenvX8nrimWiaTodZK9Yth1EI6s8=",
+  "Source": "COVID.WebAPI",
+  "BasePath": "_content/COVID.WebAPI",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],

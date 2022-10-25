@@ -1,0 +1,15 @@
+C:\Users\Leen Al Midani\source\repos\COVID\AccessDbContext\obj\Debug\net6.0\COVID.AccessDbContextLayer.csproj.AssemblyReference.cache
+C:\Users\Leen Al Midani\source\repos\COVID\AccessDbContext\obj\Debug\net6.0\COVID.AccessDbContextLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leen Al Midani\source\repos\COVID\AccessDbContext\obj\Debug\net6.0\COVID.AccessDbContextLayer.AssemblyInfoInputs.cache
+C:\Users\Leen Al Midani\source\repos\COVID\AccessDbContext\obj\Debug\net6.0\COVID.AccessDbContextLayer.AssemblyInfo.cs
+C:\Users\Leen Al Midani\source\repos\COVID\AccessDbContext\obj\Debug\net6.0\COVID.AccessDbContextLayer.csproj.CoreCompileInputs.cache
+C:\Users\Leen Al Midani\source\repos\COVID\AccessDbContext\bin\Debug\net6.0\COVID.AccessDbContextLayer.deps.json
+C:\Users\Leen Al Midani\source\repos\COVID\AccessDbContext\bin\Debug\net6.0\COVID.AccessDbContextLayer.dll
+C:\Users\Leen Al Midani\source\repos\COVID\AccessDbContext\bin\Debug\net6.0\COVID.AccessDbContextLayer.pdb
+C:\Users\Leen Al Midani\source\repos\COVID\AccessDbContext\bin\Debug\net6.0\COVID.Entity.dll
+C:\Users\Leen Al Midani\source\repos\COVID\AccessDbContext\bin\Debug\net6.0\COVID.Entity.pdb
+C:\Users\Leen Al Midani\source\repos\COVID\AccessDbContext\obj\Debug\net6.0\COVID.AccessDbContextLayer.csproj.CopyComplete
+C:\Users\Leen Al Midani\source\repos\COVID\AccessDbContext\obj\Debug\net6.0\COVID.AccessDbContextLayer.dll
+C:\Users\Leen Al Midani\source\repos\COVID\AccessDbContext\obj\Debug\net6.0\refint\COVID.AccessDbContextLayer.dll
+C:\Users\Leen Al Midani\source\repos\COVID\AccessDbContext\obj\Debug\net6.0\COVID.AccessDbContextLayer.pdb
+C:\Users\Leen Al Midani\source\repos\COVID\AccessDbContext\obj\Debug\net6.0\ref\COVID.AccessDbContextLayer.dll

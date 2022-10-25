@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zh87A9+cYwrUuFGa5vYzKe2OgqZAPWqfHyFoWMuqnvCcAjneWDR6O4UVrIGTq2CcYgJRuoA9j66HMVOoj29xzg==",
+  "dgSpecHash": "J4N99NvErQpnqdsPOKv0wBf+rbSkqhvK20TY/CQPYUUbs3sm6yAUjcoSMlelYWasNHWPt8tSgJfjhNlNa+HRmw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Leen Al Midani\\source\\repos\\COVID\\COVID\\COVID.csproj",
+  "projectFilePath": "C:\\Users\\Leen Al Midani\\source\\repos\\COVID\\COVID\\COVID.WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Leen Al Midani\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\Leen Al Midani\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

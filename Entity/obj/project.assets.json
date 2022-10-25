@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Leen Al Midani\\source\\repos\\COVID\\Entity\\Entity.csproj",
-      "projectName": "Entity",
-      "projectPath": "C:\\Users\\Leen Al Midani\\source\\repos\\COVID\\Entity\\Entity.csproj",
+      "projectUniqueName": "C:\\Users\\Leen Al Midani\\source\\repos\\COVID\\Entity\\COVID.Entity.csproj",
+      "projectName": "COVID.Entity",
+      "projectPath": "C:\\Users\\Leen Al Midani\\source\\repos\\COVID\\Entity\\COVID.Entity.csproj",
       "packagesPath": "C:\\Users\\Leen Al Midani\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Leen Al Midani\\source\\repos\\COVID\\Entity\\obj\\",
       "projectStyle": "PackageReference",
